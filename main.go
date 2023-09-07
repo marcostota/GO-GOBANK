@@ -10,7 +10,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-
+	//sd
 	if err := store.Init(); err != nil {
 		log.Fatal(err)
 	}
